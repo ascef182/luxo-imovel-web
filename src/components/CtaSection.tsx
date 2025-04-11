@@ -3,7 +3,7 @@ import React from 'react';
 
 const CtaSection = () => {
   return (
-    <section className="py-20 bg-luxury-DEFAULT text-white">
+    <section className="py-20 bg-black text-white">
       <div className="luxury-container text-center">
         <h2 className="section-title text-white mb-4">Pronto para Encontrar Seu Imóvel dos Sonhos?</h2>
         <p className="text-white/80 max-w-2xl mx-auto mb-10">

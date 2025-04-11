@@ -107,11 +107,11 @@
   }
 
   .btn-primary {
-    @apply bg-luxury-DEFAULT text-white border border-luxury-gold px-6 py-2 hover:bg-luxury-darkGray transition-all duration-300;
+    @apply bg-black text-white border border-luxury-gold px-6 py-2 hover:bg-luxury-darkGray transition-all duration-300;
   }
 
   .btn-gold {
-    @apply bg-luxury-gold text-luxury-DEFAULT px-6 py-2 hover:bg-opacity-90 transition-all duration-300;
+    @apply bg-luxury-gold text-black px-6 py-2 hover:bg-opacity-90 transition-all duration-300;
   }
 
   .section-title {
