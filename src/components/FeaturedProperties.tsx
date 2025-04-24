@@ -29,7 +29,7 @@ const properties = [
     title: "Villa Contemporânea",
     location: "Barra da Tijuca, RJ",
     price: "R$ 6.300.000",
-    image: "/Mediterranean Villa Exterior.jpeg",
+    image: "https://www.lummi.ai/photo/luxurious-modern-house-at-evening-wq0u3",
     beds: 4,
     baths: 4,
     area: "480 m²",
@@ -39,7 +39,8 @@ const properties = [
     title: "Apartamento Vista Mar",
     location: "Ipanema, Rio de Janeiro",
     price: "R$ 7.800.000",
-    image: "/Luxurious Modern House with Infinity Pool.jpeg",
+    image:
+      "https://www.lummi.ai/photo/luxurious-cliffside-modern-house-with-sea-view-d0z49",
     beds: 3,
     baths: 4,
     area: "320 m²",
